@@ -1,31 +1,22 @@
-PIVOT TABLE :
-- It allows us to summarize
-- It allows us to analyz 
-- It explor and present the data in proper manner
-- It automatically sort the data 
-- It automatically count the total no of values 
-- It calculate the total of particular values of set of values 
-- It help to displaying all these result in a new table and showing summarized data 
-OPERATION :
-- Summarising Data : sum,average,count,min etc
--Filtering Data : data,product,regiom filter 
--Grouping Data : By (dates,monthly,quaraterly) , Product,region
--Calculating Percentages : percentage of total,percentage change
+Excel Macros :
+-Marcos in Excel are sequences of instruction that automate repetitive tasks
+-They are recorded action that you can play back to automate 
+
+Recording a macro : Macro can be recorded to capture a series of action in Excel 
+Running a macro : Once recored , macros can be exceuted to repeat the captured action 
+Macros security : Security setting for enabling  or disabling macros in Excel 
+
+VBA(Virtual Basic for Application):
+-VBA is a programming langauge intergreated into microsoft office application 
+-It allows user to write custom code to automate  tasks, create user defined function , control Excel 
+VBA Concept 
+-VBA Editior : The integrated development environment(IDE) where you write and edit VBA code
+-Modules : Container  for VBA code with in a workbook
+-Procedures : Subroutines (sub) and function (function) that perform specifies tasks 
 
 
-PIVOT CHART :
-- A pivot chart is an extension of a pivot table that provides a graphical representation of the data summaraized in the pivot table 
-- It allows for dynamic data visulization 
-OPERATION :
-- Changing chart types : column, bar ,line etc
--Customizing chart element : titles, legent ,data labels ,colours
--Drilling down data : Interatively explore data points in details 
-
-POWER QUERY :
-- It  discover , connect ,combine ,refine tha data across a wide variety of sourcer
--It provides an easy way to import ,clean, and tranform data before analyzing in the excel
-OPERATIONS :
--Merging Queries : combine data from different tables or sources
--Appending Queries : stack data from similar tables
--Unpivoting Column : Transform column into row for better analysis 
-Creating calculated column : add customer calculation and transformation
+Macro vs VBA
+- A macros is a piece of code 
+- Macros are written in a programming language called VBA
+-VBA is used in Excel ,word,power point  and other office application
+-VBA include an editior with in Excel and word for writing and managing macros
